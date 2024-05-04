@@ -9,8 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Run a multi-line scrpit
-        run: 
+      - name: Run a multi-line script
+        run: |
           curl -X POST \
             -H 'Content-type: application/json' \
             -H 'auth-token: ddf450ab-ecbc-4198-84b5-ef7d2d1c406d' \
