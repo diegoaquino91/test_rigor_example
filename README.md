@@ -1,1 +1,1 @@
-# test_rigor_example
+# Integrando testes automatizados do testRipor no Github Actions. 
