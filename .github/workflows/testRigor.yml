@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  build-tests-regressivos:
     runs-on: ubuntu-latest
     steps:
       - name: Run a multi-line script
