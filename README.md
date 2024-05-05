@@ -1,1 +1,1 @@
-# Integrando testes automatizados do testRipor no Github Actions. 
+# Integrando testes automatizados do testRipor no Github Actions! 
